@@ -1,0 +1,8 @@
+let hm = new Map()
+hm.set('a', 1)
+hm.set('b', 1)
+hm.set('c', 1)
+hm.set('a', 2)
+console.log(hm.has('a'))
+console.log(hm.get('a'))
+hm.forEach((i, j) => console.log(j, '=>', i))

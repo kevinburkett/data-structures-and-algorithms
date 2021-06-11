@@ -2,7 +2,7 @@
   "name": "data-structures-and-algorithms",
   "version": "1.0.0",
   "description": "Data Structures and Algorithms",
-  "main": "src/tries.js",
+  "main": "src/tree-graph.js",
   "directories": {
     "src": "src",
     "test": "test"

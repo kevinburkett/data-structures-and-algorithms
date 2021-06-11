@@ -17,7 +17,6 @@ class Trie {
                 return false
             current = current.getChild(letter)   
         }
-
         return current.isEndOfWord
     }
     traverse(type) {

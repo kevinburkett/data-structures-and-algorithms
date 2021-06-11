@@ -2,7 +2,7 @@
   "name": "data-structures-and-algorithms",
   "version": "1.0.0",
   "description": "Data Structures and Algorithms",
-  "main": "src/sort-quick.js",
+  "main": "src/tries.js",
   "directories": {
     "src": "src",
     "test": "test"

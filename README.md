@@ -1,5 +1,7 @@
 # Data Structures and Algorithms
 
+![example workflow](https://github.com/kevinburkett/data-structures-and-algorithms/actions/workflows/codeql-analysis.yml/badge.svg)
+
 ## Big O Notation
 
 [![Big O Cheat Sheet](https://www.bigocheatsheet.com/img/big-o-complexity-chart.png)](https://www.bigocheatsheet.com/)
